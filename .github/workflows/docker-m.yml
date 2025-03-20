@@ -32,4 +32,4 @@ jobs:
           context: .
           push: true
           platforms: linux/arm64
-          tags: mimimimimimimiiii/dangbei:latest
+          tags: mimimimimimimiiii/av666:latest
