@@ -5,6 +5,7 @@ on:
     branches: [ "main" ]
     paths:
       - "Dockerfile"
+      - "main.py"
   workflow_dispatch:
 
 jobs:
